@@ -2,9 +2,9 @@
 
 MemberManagerGUI is a Java desktop app that allows users to add, view, and manage members through a Swing-based GUI. It prevents duplicates, saves data to a file, and demonstrates core object-oriented programming and file handling concepts in Java.
 
-# MemberManagerGUI 🧾 | Java, Swing, Object-Oriented Programming
 
 A simple desktop Java application that allows users to add, view, and manage a list of members using a graphical user interface built with Java Swing.
+
 # 🔧 Features
 
     Add new members with name and email
