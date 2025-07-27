@@ -50,4 +50,4 @@ A simple desktop Java application that allows users to add, view, and manage a l
 
     Open in your preferred Java IDE
 
-    Run App.java to start the application
+    Run MemberGUI.java to start the application
